@@ -1,6 +1,11 @@
 # umpc-phone
 Repurpose Redmi Note 9S as ultra mobile pc.
 
+## Test Print - v0.1
+ <p align="center">
+  <img src="/test-print-v0.1.jpg">
+</p>
+
 # Operating System
 ### postmarketOS
 Disadvantages:
