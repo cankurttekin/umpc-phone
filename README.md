@@ -1,6 +1,11 @@
 # umpc-phone
 Repurpose Redmi Note 9S as ultra mobile pc.
 
+## More Polished Version for Galaxy Z Flip 5/6
+<p align="center">
+  <img src="/model-2.jpg">
+</p>
+
 ## Test Print - v0.1
  <p align="center">
   <img src="/test-print-v0.1-full.jpg">
